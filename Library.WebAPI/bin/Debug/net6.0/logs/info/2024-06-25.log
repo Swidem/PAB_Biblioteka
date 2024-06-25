@@ -1,0 +1,11 @@
+2024-06-25 02:51:25.4269|DEBUG|Library.WebAPI.Program|init main
+2024-06-25 02:57:16.8572|DEBUG|Library.WebAPI.Program|init main
+2024-06-25 02:57:40.5910|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2024-06-25 02:57:40.9010|DEBUG|Library.WebAPI.Controllers.ClientController|Rozpoczęto pobieranie listy wszystkich klientów
+2024-06-25 02:57:41.0747|DEBUG|Library.WebAPI.Controllers.ClientController|Zakończono pobieranie listy wszystkich klientów
+2024-06-25 02:58:16.6679|DEBUG|Library.WebAPI.Controllers.FileController|Rozpoczęto pobieranie pliku: aaa
+2024-06-25 02:58:16.6679|WARN|Library.WebAPI.Controllers.FileController|Plik nie znaleziony: aaa
+2024-06-25 02:58:33.5381|DEBUG|Library.WebAPI.Controllers.LoanController|Rozpoczęto pobieranie listy wszystkich wypożyczeń
+2024-06-25 02:58:33.6377|DEBUG|Library.WebAPI.Controllers.LoanController|Zakończono pobieranie listy wszystkich wypożyczeń
+2024-06-25 02:59:17.0096|DEBUG|Library.WebAPI.Controllers.BookController|Rozpoczęto pobieranie listy wszystkich książek
+2024-06-25 02:59:17.0310|DEBUG|Library.WebAPI.Controllers.BookController|Zakończono pobieranie listy wszystkich książek

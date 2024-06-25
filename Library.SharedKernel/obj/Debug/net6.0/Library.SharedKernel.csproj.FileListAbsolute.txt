@@ -1,0 +1,46 @@
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.deps.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\bin\Debug\net6.0\Library.Domain.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\bin\Debug\net6.0\Library.Domain.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.AssemblyInfo.cs
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.CopyComplete
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\refint\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.SharedKernel\obj\Debug\net6.0\ref\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.deps.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\bin\Debug\net6.0\Library.Domain.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\bin\Debug\net6.0\Library.Domain.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.AssemblyInfo.cs
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.CopyComplete
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\refint\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.SharedKernel\obj\Debug\net6.0\ref\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.deps.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\bin\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\bin\Debug\net6.0\Library.Domain.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\bin\Debug\net6.0\Library.Domain.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.AssemblyInfo.cs
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.sourcelink.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.csproj.CopyComplete
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\refint\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.SharedKernel\obj\Debug\net6.0\ref\Library.SharedKernel.dll

@@ -1,0 +1,65 @@
+﻿@page "/books"
+@using Library.Application.Services
+@using Library.SharedKernel.Dto
+@inject IBookService _bookService
+@inject IJSRuntime _js
+@inject NavigationManager _navigationManager
+<PageTitle>Book list</PageTitle>
+<h1>Book list</h1>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>ISBN</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in _bookList)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.ISBN</td>
+                    <td>@book.StatusOfBook</td>
+                    <td>
+                        <button class="btn bg-warning" @onclick="@(() => EditBook(book.BookId))">
+                            <span class="oi oi-pencil" aria-hidden="true"></span> Edit
+                        </button>
+                        <button class="btn btn-danger" @onclick="@(() => DeleteBook(book.BookId))">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private List<BookDto> _bookList = null;
+
+    protected override void OnInitialized()
+    {
+        _bookList = _bookService.GetAll();
+    }
+
+    private void EditBook(int id)
+    {
+        _navigationManager.NavigateTo($"book/edit/{id}");
+    }
+
+    private void DeleteBook(int id)
+    {
+        var book = _bookList.First(q => q.BookId == id);
+        var confirm = _js.InvokeAsync<bool>("confirm", $"Are you sure you want to delete {book.Title}?").Result;
+        if (confirm)
+        {
+            _bookService.Delete(id);
+            _bookList = _bookService.GetAll();
+        }
+    }
+}

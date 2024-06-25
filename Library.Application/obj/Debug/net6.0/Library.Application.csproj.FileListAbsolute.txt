@@ -1,0 +1,52 @@
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.Application.deps.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.Application.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.Domain.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.Domain.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\bin\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.csproj.AssemblyReference.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfoInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfo.cs
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CoreCompileInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CopyComplete
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\refint\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\Library.Application.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB\Library\Library.Application\obj\Debug\net6.0\ref\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.Application.deps.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.Application.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.Domain.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.Domain.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\bin\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.csproj.AssemblyReference.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfoInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfo.cs
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CoreCompileInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CopyComplete
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\refint\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\Library.Application.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\Library.Application\obj\Debug\net6.0\ref\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.Application.deps.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.Application.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.Domain.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.SharedKernel.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.Domain.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\bin\Debug\net6.0\Library.SharedKernel.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.csproj.AssemblyReference.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfoInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfo.cs
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CoreCompileInputs.cache
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.sourcelink.json
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CopyComplete
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\refint\Library.Application.dll
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\Library.Application.pdb
+C:\Users\jswiderek\Desktop\Warstwy_PAB — kopia — kopia\Library\PAB_Biblioteka\Library.Application\obj\Debug\net6.0\ref\Library.Application.dll
